@@ -1,0 +1,28 @@
+Scenario 5: Invitation for a session. 
+ 
+You are organizing a 2-hour webinar on Stress and Time Management. Send a mail to your colleagues inviting them for the webinar along with the duration of the session and a small description of the topic.  
+ 
+Mail should include: 
+ 
+Purpose of the mail 
+Session duration 
+Relevance of the webinar topic in current scenario. 
+ 
+Challenge: The session requires them to clear their schedule having other tasks involved. 
+
+Subject Line:Invitation for the Session.
+ 
+Dear colleagues,
+               
+               This to inform that we are going to arrange a webinar on Stress and  Time Managemnt.As now a days it is really important for all of us to know how to manage
+	       the Stress and Time.In our daily life it really place a crucial part to lead a healthy and  balanced life so I suggest everyone should attend the meeting
+	       without fail.Everyone should clear their tasks on time and attend the meeting.
+	       The Details of the meeting are as follows:
+	       Date:22nd December 2021.
+	       Time:4.00pm-6.00pm.
+	       Link:https://ciscowebexp.com
+	      
+               Best Regards,	
+	       Venkatesh.
+	       1343451
+	       56231236123
